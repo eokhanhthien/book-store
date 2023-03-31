@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Cài máy ảo flutter và chạy
--Sử dụng tài khoản admin : admin@admin.com ( password : 123456 )
--Sử dụng tài khoản user : admin@gmail.com ( password : 123456 )
+-Sử dụng tài khoản admin : admin@admin.com ( password : 123456789 )
+-Sử dụng tài khoản user : admin@gmail.com ( password : 123456789 )
